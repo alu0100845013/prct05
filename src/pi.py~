@@ -12,6 +12,6 @@ if (n!=0):
      fxi = 4.0/(1.0 + xi*xi)
      print a,b,xi,fxi
      suma += fxi
-pi=float (suma)/n
+pi= float (suma)/n
 print 'el valor aproximado de pi es: ', pi
 print "el valor de pi con 35 cifras decimales es: %1.35g" % PI
